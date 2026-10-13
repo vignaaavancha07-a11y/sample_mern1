@@ -1,4 +1,4 @@
-import Header_component from "./Components/header_component";
+import Header_component from "./Components/Header_component";
 import Footer_component from "./Components/Footer_component";
 import Home from './pages/Home'
 import About from './pages/About'
